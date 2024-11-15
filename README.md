@@ -37,7 +37,7 @@ As one might expect, implementing this takes quite a bit of architecture-specifi
 muscle, so support for different architectures has to be added in manually.
 Currently, this crate supports the following architectures:
 - [X] AArch64
-- [ ] x86_64
+- [X] x86_64
 
 Support for architectures that are listed but not marked are in the roadmap, but I
 haven't gotten to them yet.
